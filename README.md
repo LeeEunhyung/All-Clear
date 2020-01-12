@@ -1,5 +1,5 @@
 # All-Clear
-- 2019 2학기 Capstone 창의설계경진대회 - React.js를 활용한 수강 신청 시스템 (Team Project)
+- 2019 2학기 Capstone 창의설계경진대회 - React.js를 활용한 수강 신청 시스템 (Reca+ Team Project)
 - 기존의 수강 신청 시스템에 __보기 쉬운 UI__ 와 __편리한 기능__ 을 추가한 서비스  
    ※ 제공되는 DB가 없었기 때문에 test DB를 직접 설계   
 
