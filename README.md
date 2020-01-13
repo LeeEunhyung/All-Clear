@@ -98,6 +98,6 @@
 
 # "Reca+" Team Info
 - [LeeEunhyung](https://github.com/LeeEunhyung)
-- [wlals7217](https://github.com/wlals7217)
+- [SSH1997](https://github.com/SSH1997)
 - [1000peach](https://github.com/1000peach)
 - [sxxzin](https://github.com/sxxzin)
